@@ -15,6 +15,6 @@ Blog Universidad
 
 [Licencia]
 
-[Donacione]
+[Donaciones]
 
 [Agradecimientos]
